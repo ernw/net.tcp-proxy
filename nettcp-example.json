@@ -1,0 +1,1930 @@
+{
+  "width": 142,
+  "command": null,
+  "duration": 26.86109,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "height": 39,
+  "title": "NET.TCP Binding Python library",
+  "version": 1,
+  "stdout": [
+    [
+      0.326747,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      3.2e-05,
+      "\u001b]2;bluec0re@hawk: ~/sources/python-nettcp\u0007\u001b]1;..python-nettcp\u0007"
+    ],
+    [
+      0.121154,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/python-nettcp\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      4.9e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.6e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.362717,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.157809,
+      "\b\u001b[32m.\u001b[39m "
+    ],
+    [
+      0.160358,
+      "\u001b[4m./venv/bin/activate\u001b[24m"
+    ],
+    [
+      0.314941,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001434,
+      "\u001b]2;. ./venv/bin/activate\u0007\u001b]1;.\u0007"
+    ],
+    [
+      0.004235,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      1.7e-05,
+      "\u001b]2;bluec0re@hawk: ~/sources/python-nettcp\u0007\u001b]1;..python-nettcp\u0007"
+    ],
+    [
+      0.107326,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/python-nettcp\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.6e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.958372,
+      "\u001b[4m\u001b[33mp\u001b[24m\u001b[39m"
+    ],
+    [
+      0.112552,
+      "\b\u001b[24m\u001b[32mp\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.15102,
+      "\b\b\u001b[32mp\u001b[32mr\u001b[32moxy_off\u001b[39m"
+    ],
+    [
+      0.74799,
+      "\b\b\u001b[32mn\u001b[39m\u001b[39m \b"
+    ],
+    [
+      0.335756,
+      "\b\u001b[32mf\u001b[32mf\u001b[39m"
+    ],
+    [
+      0.169077,
+      "\u001b[9D\u001b[32mp\u001b[32mr\u001b[39m\u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \b\b\b\b\b\b\b"
+    ],
+    [
+      0.233682,
+      "\b\b\u001b[4m\u001b[33mp\u001b[24m\u001b[39m\u001b[39m \b"
+    ],
+    [
+      0.281607,
+      "\b\u001b[24m\u001b[39m \b"
+    ],
+    [
+      1.263145,
+      "\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.120598,
+      "\b\u001b[4mn\u001b[4me\u001b[24m"
+    ],
+    [
+      0.097874,
+      "\b\b\u001b[24m\u001b[32mn\u001b[24m\u001b[32me\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.124269,
+      "\b\u001b[32mt\u001b[32mtcp-proxy.py\u001b[39m -b 192.168.56.1 -p 8523 192.168.56.101 8523 -t \u001b[4mexample.trace\u001b[24m"
+    ],
+    [
+      0.430887,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001364,
+      "\u001b]2;nettcp-proxy.py -b 192.168.56.1 -p 8523 192.168.56.101 8523 -t example.trace\u0007\u001b]1;nettcp-proxy.py\u0007"
+    ],
+    [
+      0.092751,
+      "/home/bluec0re/sources/python-nettcp/nettcp/proxy.py:24: UserWarning: gssapi not installed, no negotiate protocol available\r\n  warnings.warn('gssapi not installed, no negotiate protocol available')\r\n"
+    ],
+    [
+      3.015904,
+      "INFO:nettcp.proxy.NETTCPProxy:New connection from 192.168.56.101:1089\r\n"
+    ],
+    [
+      0.002267,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      0.00142,
+      "\u001b[36m0:\u001b[33m 00                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.3e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1.5e-05,
+      "\u001b[36m0:\u001b[33m 01                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      7.4e-05,
+      "\u001b[36m0:\u001b[33m 00                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000128,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: VersionRecord(MajorVersion=1, MinorVersion=0)\r\n"
+    ],
+    [
+      7.3e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      6.4e-05,
+      "\u001b[36m0:\u001b[33m 00 01 00               \u001b[34m ...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      1.2e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      2.9e-05,
+      "\u001b[36m0:\u001b[33m 00 01 00               \u001b[34m ...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      7.3e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0:\u001b[33m 01                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.8e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.2e-05,
+      "\u001b[36m0:\u001b[33m 02                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000101,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: ModeRecord(Mode=Mode.DUPLEX)\r\n"
+    ],
+    [
+      4.1e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      3.4e-05,
+      "\u001b[36m0:\u001b[33m 01 02                  \u001b[34m ..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.1e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      3.3e-05,
+      "\u001b[36m0:\u001b[33m 01 02                  \u001b[34m ..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.7e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.1e-05,
+      "\u001b[36m0:\u001b[33m 02                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.8e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.1e-05,
+      "\u001b[36m0:\u001b[33m 24                     \u001b[34m $\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.1e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.9e-05,
+      "\u001b[36m00:\u001b[33m 6E 65 74 2E 74 63 70 3A\u001b[34m net.tcp:\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.8e-05,
+      "\u001b[36m08:\u001b[33m 2F 2F 31 39 32 2E 31 36\u001b[34m //192.16\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m10:\u001b[33m 38 2E 35 36 2E 31 3A 38\u001b[34m 8.56.1:8\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m18:\u001b[33m 35 32 33 2F 53 65 72 76\u001b[34m 523/Serv\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m20:\u001b[33m 69 63 65 31            \u001b[34m ice1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      8.6e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: ViaRecord(ViaLength=36, Via='net.tcp://192.168.56.1:8523/Service1')\r\n"
+    ],
+    [
+      9e-06,
+      "36\r\n"
+    ],
+    [
+      3.4e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      3.9e-05,
+      "\u001b[36m00:\u001b[33m 02 24 6E 65 74 2E 74 63\u001b[34m .$net.tc\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.1e-05,
+      "\u001b[36m08:\u001b[33m 70 3A 2F 2F 31 39 32 2E\u001b[34m p://192.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m10:\u001b[33m 31 36 38 2E 35 36 2E 31\u001b[34m 168.56.1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m18:\u001b[33m 3A 38 35 32 33 2F 53 65\u001b[34m :8523/Se\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36m20:\u001b[33m 72 76 69 63 65 31      \u001b[34m rvice1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      3.8e-05,
+      "\u001b[36m00:\u001b[33m 02 24 6E 65 74 2E 74 63\u001b[34m .$net.tc\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m08:\u001b[33m 70 3A 2F 2F 31 39 32 2E\u001b[34m p://192.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m10:\u001b[33m 31 36 38 2E 35 36 2E 31\u001b[34m 168.56.1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.8e-05,
+      "\u001b[36m18:\u001b[33m 3A 38 35 32 33 2F 53 65\u001b[34m :8523/Se\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m20:\u001b[33m 72 76 69 63 65 31      \u001b[34m rvice1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.6e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.1e-05,
+      "\u001b[36m0:\u001b[33m 03                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.6e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.1e-05,
+      "\u001b[36m0:\u001b[33m 08                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      8.9e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: KnownEncodingRecord(Encoding=KnownEncoding.BINARY_DICT)\r\n"
+    ],
+    [
+      4.3e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      3.1e-05,
+      "\u001b[36m0:\u001b[33m 03 08                  \u001b[34m ..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.8e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      3.2e-05,
+      "\u001b[36m0:\u001b[33m 03 08                  \u001b[34m ..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000148,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Handling data coming from the server\r\n"
+    ],
+    [
+      6.6e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36m0:\u001b[33m 0C                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      9.7e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: PreambleEndRecord()\r\n"
+    ],
+    [
+      4.7e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[36m0:\u001b[33m 0C                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.1e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      4.3e-05,
+      "\u001b[36m0:\u001b[33m 0C                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.200516,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[36m0:\u001b[33m 0B                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000243,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Got from server: PreambleAckRecord()\r\n"
+    ],
+    [
+      0.000127,
+      "Got Data from server:\r\n"
+    ],
+    [
+      3.5e-05,
+      "\u001b[36m0:\u001b[33m 0B                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000583,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      6.5e-05,
+      "\u001b[36m0:\u001b[33m 06                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      7e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1.5e-05,
+      "\u001b[36m0:\u001b[33m B0                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.3e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1.6e-05,
+      "\u001b[36m0:\u001b[33m 01                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.3e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[36m00:\u001b[33m 6C 24 68 74 74 70 3A 2F\u001b[34m l$http:/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.8e-05,
+      "\u001b[36m08:\u001b[33m 2F 74 65 6D 70 75 72 69\u001b[34m /tempuri\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m10:\u001b[33m 2E 6F 72 67 2F 49 53 65\u001b[34m .org/ISe\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m18:\u001b[33m 72 76 69 63 65 31 2F 47\u001b[34m rvice1/G\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3e-05,
+      "\u001b[36m20:\u001b[33m 65 74 44 61 74 61 24 6E\u001b[34m etData$n\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.1e-05,
+      "\u001b[36m28:\u001b[33m 65 74 2E 74 63 70 3A 2F\u001b[34m et.tcp:/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 2F 31 39 32 2E 31 36 38\u001b[34m /192.168\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m38:\u001b[33m 2E 35 36 2E 31 3A 38 35\u001b[34m .56.1:85\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m40:\u001b[33m 32 33 2F 53 65 72 76 69\u001b[34m 23/Servi\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m48:\u001b[33m 63 65 31 07 47 65 74 44\u001b[34m ce1.GetD\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m50:\u001b[33m 61 74 61 13 68 74 74 70\u001b[34m ata.http\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m58:\u001b[33m 3A 2F 2F 74 65 6D 70 75\u001b[34m ://tempu\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m60:\u001b[33m 72 69 2E 6F 72 67 2F 05\u001b[34m ri.org/.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m68:\u001b[33m 76 61 6C 75 65 56 02 0B\u001b[34m valueV..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m70:\u001b[33m 01 73 04 0B 01 61 06 56\u001b[34m .s...a.V\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m78:\u001b[33m 08 44 0A 1E 00 82 AB 01\u001b[34m .D......\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m80:\u001b[33m 44 1A AD 4B DF B6 5E FD\u001b[34m D..K..^.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m88:\u001b[33m AE 7F 45 BB FA 26 44 6D\u001b[34m ..E..&Dm\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m90:\u001b[33m AF 42 E0 44 2C 44 2A AB\u001b[34m .B.D,D*.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m98:\u001b[33m 14 01 44 0C 1E 00 82 AB\u001b[34m ..D.....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA0:\u001b[33m 03 01 56 0E 42 05 0A 07\u001b[34m ..V.B...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA8:\u001b[33m 42 09 8B 39 05 01 01 01\u001b[34m B..9....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000101,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: SizedEnvelopedMessageRecord(Size=176, Payload=b'l$http://tempuri.org/IService1/GetData$net.tcp://192.168.56.1:8523/Service1\\x07GetData\\x13http://tempuri.org/\\x05valueV\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01D\\x1a\\xadK\\xdf\\xb6^\\xfd\\xae\\x7fE\\xbb\\xfa&Dm\\xafB\\xe0D,D*\\xab\\x14\\x01D\\x0c\\x1e\\x00\\x82\\xab\\x03\\x01V\\x0eB\\x05\\n\\x07B\\t\\x8b9\\x05\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      1.1e-05,
+      "176\r\n"
+    ],
+    [
+      4.7e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      4.6e-05,
+      "\u001b[36m00:\u001b[33m 06 B0 01 6C 24 68 74 74\u001b[34m ...l$htt\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.8e-05,
+      "\u001b[36m08:\u001b[33m 70 3A 2F 2F 74 65 6D 70\u001b[34m p://temp\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m10:\u001b[33m 75 72 69 2E 6F 72 67 2F\u001b[34m uri.org/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m18:\u001b[33m 49 53 65 72 76 69 63 65\u001b[34m IService\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m20:\u001b[33m 31 2F 47 65 74 44 61 74\u001b[34m 1/GetDat\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m28:\u001b[33m 61 24 6E 65 74 2E 74 63\u001b[34m a$net.tc\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 70 3A 2F 2F 31 39 32 2E\u001b[34m p://192.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m38:\u001b[33m 31 36 38 2E 35 36 2E 31\u001b[34m 168.56.1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.9e-05,
+      "\u001b[36m40:\u001b[33m 3A 38 35 32 33 2F 53 65\u001b[34m :8523/Se\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.2e-05,
+      "\u001b[36m48:\u001b[33m 72 76 69 63 65 31 07 47\u001b[34m rvice1.G\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m50:\u001b[33m 65 74 44 61 74 61 13 68\u001b[34m etData.h\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m58:\u001b[33m 74 74 70 3A 2F 2F 74 65\u001b[34m ttp://te\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.9e-05,
+      "\u001b[36m60:\u001b[33m 6D 70 75 72 69 2E 6F 72\u001b[34m mpuri.or\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[36m68:\u001b[33m 67 2F 05 76 61 6C 75 65\u001b[34m g/.value\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m70:\u001b[33m 56 02 0B 01 73 04 0B 01\u001b[34m V...s...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m78:\u001b[33m 61 06 56 08 44 0A 1E 00\u001b[34m a.V.D...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m80:\u001b[33m 82 AB 01 44 1A AD 4B DF\u001b[34m ...D..K.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m88:\u001b[33m B6 5E FD AE 7F 45 BB FA\u001b[34m .^...E..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m90:\u001b[33m 26 44 6D AF 42 E0 44 2C\u001b[34m &Dm.B.D,\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m98:\u001b[33m 44 2A AB 14 01 44 0C 1E\u001b[34m D*...D..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA0:\u001b[33m 00 82 AB 03 01 56 0E 42\u001b[34m .....V.B\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA8:\u001b[33m 05 0A 07 42 09 8B 39 05\u001b[34m ...B..9.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36mB0:\u001b[33m 01 01 01               \u001b[34m ...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.7e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      3.8e-05,
+      "\u001b[36m00:\u001b[33m 06 B0 01 6C 24 68 74 74\u001b[34m ...l$htt\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m08:\u001b[33m 70 3A 2F 2F 74 65 6D 70\u001b[34m p://temp\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m10:\u001b[33m 75 72 69 2E 6F 72 67 2F\u001b[34m uri.org/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m18:\u001b[33m 49 53 65 72 76 69 63 65\u001b[34m IService\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m20:\u001b[33m 31 2F 47 65 74 44 61 74\u001b[34m 1/GetDat\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m28:\u001b[33m 61 24 6E 65 74 2E 74 63\u001b[34m a$net.tc\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 70 3A 2F 2F 31 39 32 2E\u001b[34m p://192.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36m38:\u001b[33m 31 36 38 2E 35 36 2E 31\u001b[34m 168.56.1\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m40:\u001b[33m 3A 38 35 32 33 2F 53 65\u001b[34m :8523/Se\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m48:\u001b[33m 72 76 69 63 65 31 07 47\u001b[34m rvice1.G\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m50:\u001b[33m 65 74 44 61 74 61 13 68\u001b[34m etData.h\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m58:\u001b[33m 74 74 70 3A 2F 2F 74 65\u001b[34m ttp://te\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m60:\u001b[33m 6D 70 75 72 69 2E 6F 72\u001b[34m mpuri.or\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m68:\u001b[33m 67 2F 05 76 61 6C 75 65\u001b[34m g/.value\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m70:\u001b[33m 56 02 0B 01 73 04 0B 01\u001b[34m V...s...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m78:\u001b[33m 61 06 56 08 44 0A 1E 00\u001b[34m a.V.D...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m80:\u001b[33m 82 AB 01 44 1A AD 4B DF\u001b[34m ...D..K.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m88:\u001b[33m B6 5E FD AE 7F 45 BB FA\u001b[34m .^...E..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m90:\u001b[33m 26 44 6D AF 42 E0 44 2C\u001b[34m &Dm.B.D,\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m98:\u001b[33m 44 2A AB 14 01 44 0C 1E\u001b[34m D*...D..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA0:\u001b[33m 00 82 AB 03 01 56 0E 42\u001b[34m .....V.B\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA8:\u001b[33m 05 0A 07 42 09 8B 39 05\u001b[34m ...B..9.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.1e-05,
+      "\u001b[36mB0:\u001b[33m 01 01 01               \u001b[34m ...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000757,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      6.5e-05,
+      "\u001b[36m0:\u001b[33m 06                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.6e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.8e-05,
+      "\u001b[36m0:\u001b[33m BD                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.6e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.3e-05,
+      "\u001b[36m0:\u001b[33m 02                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.7e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[36m000:\u001b[33m 5F 2C 68 74 74 70 3A 2F\u001b[34m _,http:/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m008:\u001b[33m 2F 74 65 6D 70 75 72 69\u001b[34m /tempuri\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m010:\u001b[33m 2E 6F 72 67 2F 49 53 65\u001b[34m .org/ISe\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m018:\u001b[33m 72 76 69 63 65 31 2F 47\u001b[34m rvice1/G\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m020:\u001b[33m 65 74 44 61 74 61 52 65\u001b[34m etDataRe\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m028:\u001b[33m 73 70 6F 6E 73 65 0F 47\u001b[34m sponse.G\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m030:\u001b[33m 65 74 44 61 74 61 52 65\u001b[34m etDataRe\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m038:\u001b[33m 73 70 6F 6E 73 65 13 68\u001b[34m sponse.h\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m040:\u001b[33m 74 74 70 3A 2F 2F 74 65\u001b[34m ttp://te\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m048:\u001b[33m 6D 70 75 72 69 2E 6F 72\u001b[34m mpuri.or\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m050:\u001b[33m 67 2F 0D 47 65 74 44 61\u001b[34m g/.GetDa\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m058:\u001b[33m 74 61 52 65 73 75 6C 74\u001b[34m taResult\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m060:\u001b[33m 56 02 0B 01 73 04 0B 01\u001b[34m V...s...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m068:\u001b[33m 61 06 56 08 44 0A 1E 00\u001b[34m a.V.D...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m070:\u001b[33m 82 AB 01 40 0A 41 63 74\u001b[34m ...@.Act\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m078:\u001b[33m 69 76 69 74 79 49 64 04\u001b[34m ivityId.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m080:\u001b[33m 0D 43 6F 72 72 65 6C 61\u001b[34m .Correla\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m088:\u001b[33m 74 69 6F 6E 49 64 98 24\u001b[34m tionId.$\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36m090:\u001b[33m 39 37 34 36 39 62 34 62\u001b[34m 97469b4b\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m098:\u001b[33m 2D 37 62 37 34 2D 34 64\u001b[34m -7b74-4d\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0A0:\u001b[33m 30 33 2D 61 65 30 38 2D\u001b[34m 03-ae08-\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0A8:\u001b[33m 65 61 65 34 61 35 35 64\u001b[34m eae4a55d\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0B0:\u001b[33m 38 66 35 33 08 3D 68 74\u001b[34m 8f53.=ht\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0B8:\u001b[33m 74 70 3A 2F 2F 73 63 68\u001b[34m tp://sch\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0C0:\u001b[33m 65 6D 61 73 2E 6D 69 63\u001b[34m emas.mic\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0C8:\u001b[33m 72 6F 73 6F 66 74 2E 63\u001b[34m rosoft.c\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m0D0:\u001b[33m 6F 6D 2F 32 30 30 34 2F\u001b[34m om/2004/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m0D8:\u001b[33m 30 39 2F 53 65 72 76 69\u001b[34m 09/Servi\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0E0:\u001b[33m 63 65 4D 6F 64 65 6C 2F\u001b[34m ceModel/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0E8:\u001b[33m 44 69 61 67 6E 6F 73 74\u001b[34m Diagnost\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0F0:\u001b[33m 69 63 73 B1 2C 58 C1 5F\u001b[34m ics.,X._\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0F8:\u001b[33m CD FA F4 4C BB AC C0 DD\u001b[34m ...L....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m100:\u001b[33m 8F 56 41 D5 44 12 AD 4B\u001b[34m .VA.D..K\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m108:\u001b[33m DF B6 5E FD AE 7F 45 BB\u001b[34m ..^...E.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m110:\u001b[33m FA 26 44 6D AF 42 E0 44\u001b[34m .&Dm.B.D\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m118:\u001b[33m 0C 1E 00 82 AB 14 01 56\u001b[34m .......V\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m120:\u001b[33m 0E 42 03 0A 05 42 07 99\u001b[34m .B...B..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m128:\u001b[33m 11 59 6F 75 20 65 6E 74\u001b[34m .You ent\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m130:\u001b[33m 65 72 65 64 3A 20 31 33\u001b[34m ered: 13\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m138:\u001b[33m 33 37 01 01 01         \u001b[34m 37...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.3e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Got from server: SizedEnvelopedMessageRecord(Size=317, Payload=b'_,http://tempuri.org/IService1/GetDataResponse\\x0fGetDataResponse\\x13http://tempuri.org/\\rGetDataResultV\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01@\\nActivityId\\x04\\rCorrelationId\\x98$97469b4b-7b74-4d03-ae08-eae4a55d8f53\\x08=http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\\xb1,X\\xc1_\\xcd\\xfa\\xf4L\\xbb\\xac\\xc0\\xdd\\x8fVA\\xd5D\\x12\\xadK\\xdf\\xb6^\\xfd\\xae\\x7fE\\xbb\\xfa&Dm\\xafB\\xe0D\\x0c\\x1e\\x00\\x82\\xab\\x14\\x01V\\x0eB\\x03\\n\\x05B\\x07\\x99\\x11You entered: 1337\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      1e-05,
+      "317\r\n"
+    ],
+    [
+      4.1e-05,
+      "Got Data from server:\r\n"
+    ],
+    [
+      6e-05,
+      "\u001b[36m000:\u001b[33m 06 BD 02 5F 2C 68 74 74\u001b[34m ..._,htt\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6e-05,
+      "\u001b[36m008:\u001b[33m 70 3A 2F 2F 74 65 6D 70\u001b[34m p://temp\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6e-05,
+      "\u001b[36m010:\u001b[33m 75 72 69 2E 6F 72 67 2F\u001b[34m uri.org/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.7e-05,
+      "\u001b[36m018:\u001b[33m 49 53 65 72 76 69 63 65\u001b[34m IService\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.8e-05,
+      "\u001b[36m020:\u001b[33m 31 2F 47 65 74 44 61 74\u001b[34m 1/GetDat\u001b(B\u001b[m\r\n"
+    ],
+    [
+      7.6e-05,
+      "\u001b[36m028:\u001b[33m 61 52 65 73 70 6F 6E 73\u001b[34m aRespons\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.9e-05,
+      "\u001b[36m030:\u001b[33m 65 0F 47 65 74 44 61 74\u001b[34m e.GetDat\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.9e-05,
+      "\u001b[36m038:\u001b[33m 61 52 65 73 70 6F 6E 73\u001b[34m aRespons\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.9e-05,
+      "\u001b[36m040:\u001b[33m 65 13 68 74 74 70 3A 2F\u001b[34m e.http:/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.3e-05,
+      "\u001b[36m048:\u001b[33m 2F 74 65 6D 70 75 72 69\u001b[34m /tempuri\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m050:\u001b[33m 2E 6F 72 67 2F 0D 47 65\u001b[34m .org/.Ge\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m058:\u001b[33m 74 44 61 74 61 52 65 73\u001b[34m tDataRes\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m060:\u001b[33m 75 6C 74 56 02 0B 01 73\u001b[34m ultV...s\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m068:\u001b[33m 04 0B 01 61 06 56 08 44\u001b[34m ...a.V.D\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m070:\u001b[33m 0A 1E 00 82 AB 01 40 0A\u001b[34m ......@.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m078:\u001b[33m 41 63 74 69 76 69 74 79\u001b[34m Activity\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m080:\u001b[33m 49 64 04 0D 43 6F 72 72\u001b[34m Id..Corr\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m088:\u001b[33m 65 6C 61 74 69 6F 6E 49\u001b[34m elationI\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m090:\u001b[33m 64 98 24 39 37 34 36 39\u001b[34m d.$97469\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m098:\u001b[33m 62 34 62 2D 37 62 37 34\u001b[34m b4b-7b74\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0A0:\u001b[33m 2D 34 64 30 33 2D 61 65\u001b[34m -4d03-ae\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0A8:\u001b[33m 30 38 2D 65 61 65 34 61\u001b[34m 08-eae4a\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0B0:\u001b[33m 35 35 64 38 66 35 33 08\u001b[34m 55d8f53.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0B8:\u001b[33m 3D 68 74 74 70 3A 2F 2F\u001b[34m =http://\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0C0:\u001b[33m 73 63 68 65 6D 61 73 2E\u001b[34m schemas.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0C8:\u001b[33m 6D 69 63 72 6F 73 6F 66\u001b[34m microsof\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0D0:\u001b[33m 74 2E 63 6F 6D 2F 32 30\u001b[34m t.com/20\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0D8:\u001b[33m 30 34 2F 30 39 2F 53 65\u001b[34m 04/09/Se\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0E0:\u001b[33m 72 76 69 63 65 4D 6F 64\u001b[34m rviceMod\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0E8:\u001b[33m 65 6C 2F 44 69 61 67 6E\u001b[34m el/Diagn\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0F0:\u001b[33m 6F 73 74 69 63 73 B1 2C\u001b[34m ostics.,\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m0F8:\u001b[33m 58 C1 5F CD FA F4 4C BB\u001b[34m X._...L.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m100:\u001b[33m AC C0 DD 8F 56 41 D5 44\u001b[34m ....VA.D\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m108:\u001b[33m 12 AD 4B DF B6 5E FD AE\u001b[34m ..K..^..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m110:\u001b[33m 7F 45 BB FA 26 44 6D AF\u001b[34m .E..&Dm.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m118:\u001b[33m 42 E0 44 0C 1E 00 82 AB\u001b[34m B.D.....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m120:\u001b[33m 14 01 56 0E 42 03 0A 05\u001b[34m ..V.B...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m128:\u001b[33m 42 07 99 11 59 6F 75 20\u001b[34m B...You \u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m130:\u001b[33m 65 6E 74 65 72 65 64 3A\u001b[34m entered:\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m138:\u001b[33m 20 31 33 33 37 01 01 01\u001b[34m  1337...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.662155,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      2.1e-05,
+      "\u001b[36m0:\u001b[33m 06                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.1e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      3.7e-05,
+      "\u001b[36m0:\u001b[33m 42                     \u001b[34m B\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.9e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      4.9e-05,
+      "\u001b[36m00:\u001b[33m 00 56 02 0B 01 73 04 0B\u001b[34m .V...s..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m08:\u001b[33m 01 61 06 56 08 44 0A 1E\u001b[34m .a.V.D..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m10:\u001b[33m 00 82 AB 01 44 1A AD B1\u001b[34m ....D...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m18:\u001b[33m 13 23 C6 B1 AD D9 4A AD\u001b[34m .#....J.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m20:\u001b[33m 77 18 ED 0D 06 F5 4A 44\u001b[34m w.....JD\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m28:\u001b[33m 2C 44 2A AB 14 01 44 0C\u001b[34m ,D*...D.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 1E 00 82 AB 03 01 56 0E\u001b[34m ......V.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m38:\u001b[33m 42 05 0A 07 42 09 81 01\u001b[34m B...B...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.1e-05,
+      "\u001b[36m40:\u001b[33m 01 01                  \u001b[34m ..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.2e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: SizedEnvelopedMessageRecord(Size=66, Payload=b'\\x00V\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01D\\x1a\\xad\\xb1\\x13#\\xc6\\xb1\\xad\\xd9J\\xadw\\x18\\xed\\r\\x06\\xf5JD,D*\\xab\\x14\\x01D\\x0c\\x1e\\x00\\x82\\xab\\x03\\x01V\\x0eB\\x05\\n\\x07B\\t\\x81\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      1.2e-05,
+      "66\r\n"
+    ],
+    [
+      7e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      6.7e-05,
+      "\u001b[36m00:\u001b[33m 06 42 00 56 02 0B 01 73\u001b[34m .B.V...s\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2e-05,
+      "\u001b[36m08:\u001b[33m 04 0B 01 61 06 56 08 44\u001b[34m ...a.V.D\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4e-05,
+      "\u001b[36m10:\u001b[33m 0A 1E 00 82 AB 01 44 1A\u001b[34m ......D.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      1e-05,
+      "\u001b[36m18:\u001b[33m AD B1 13 23 C6 B1 AD D9\u001b[34m ...#....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m20:\u001b[33m 4A AD 77 18 ED 0D 06 F5\u001b[34m J.w.....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m28:\u001b[33m 4A 44 2C 44 2A AB 14 01\u001b[34m JD,D*...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 44 0C 1E 00 82 AB 03 01\u001b[34m D.......\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m38:\u001b[33m 56 0E 42 05 0A 07 42 09\u001b[34m V.B...B.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m40:\u001b[33m 81 01 01 01            \u001b[34m ....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.4e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      3.8e-05,
+      "\u001b[36m00:\u001b[33m 06 42 00 56 02 0B 01 73\u001b[34m .B.V...s\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m08:\u001b[33m 04 0B 01 61 06 56 08 44\u001b[34m ...a.V.D\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m10:\u001b[33m 0A 1E 00 82 AB 01 44 1A\u001b[34m ......D.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m18:\u001b[33m AD B1 13 23 C6 B1 AD D9\u001b[34m ...#....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m20:\u001b[33m 4A AD 77 18 ED 0D 06 F5\u001b[34m J.w.....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m28:\u001b[33m 4A 44 2C 44 2A AB 14 01\u001b[34m JD,D*...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 44 0C 1E 00 82 AB 03 01\u001b[34m D.......\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m38:\u001b[33m 56 0E 42 05 0A 07 42 09\u001b[34m V.B...B.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m40:\u001b[33m 81 01 01 01            \u001b[34m ....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000813,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1.8e-05,
+      "\u001b[36m0:\u001b[33m 06                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.8e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1e-05,
+      "\u001b[36m0:\u001b[33m DB                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.2e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1.4e-05,
+      "\u001b[36m0:\u001b[33m 01                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.6e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      1.5e-05,
+      "\u001b[36m00:\u001b[33m 00 56 02 0B 01 73 04 0B\u001b[34m .V...s..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5e-05,
+      "\u001b[36m08:\u001b[33m 01 61 06 56 08 44 0A 1E\u001b[34m .a.V.D..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      1.3e-05,
+      "\u001b[36m10:\u001b[33m 00 82 AB 01 40 0A 41 63\u001b[34m ....@.Ac\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m18:\u001b[33m 74 69 76 69 74 79 49 64\u001b[34m tivityId\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m20:\u001b[33m 04 0D 43 6F 72 72 65 6C\u001b[34m ..Correl\u001b(B\u001b[m\r\n"
+    ],
+    [
+      1.7e-05,
+      "\u001b[36m28:\u001b[33m 61 74 69 6F 6E 49 64 98\u001b[34m ationId.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m30:\u001b[33m 24 38 39 62 36 30 32 30\u001b[34m $89b6020\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m38:\u001b[33m 39 2D 32 35 33 33 2D 34\u001b[34m 9-2533-4\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m40:\u001b[33m 62 61 62 2D 39 31 39 34\u001b[34m bab-9194\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m48:\u001b[33m 2D 35 65 62 37 39 63 35\u001b[34m -5eb79c5\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m50:\u001b[33m 36 39 35 66 36 08 3D 68\u001b[34m 695f6.=h\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m58:\u001b[33m 74 74 70 3A 2F 2F 73 63\u001b[34m ttp://sc\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m60:\u001b[33m 68 65 6D 61 73 2E 6D 69\u001b[34m hemas.mi\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m68:\u001b[33m 63 72 6F 73 6F 66 74 2E\u001b[34m crosoft.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m70:\u001b[33m 63 6F 6D 2F 32 30 30 34\u001b[34m com/2004\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m78:\u001b[33m 2F 30 39 2F 53 65 72 76\u001b[34m /09/Serv\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m80:\u001b[33m 69 63 65 4D 6F 64 65 6C\u001b[34m iceModel\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m88:\u001b[33m 2F 44 69 61 67 6E 6F 73\u001b[34m /Diagnos\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m90:\u001b[33m 74 69 63 73 B1 E9 EE F0\u001b[34m tics....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m98:\u001b[33m 86 C9 FA 99 4B 9D 86 AD\u001b[34m ....K...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA0:\u001b[33m 7C 08 B5 0A 02 44 12 AD\u001b[34m |....D..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36mA8:\u001b[33m B1 13 23 C6 B1 AD D9 4A\u001b[34m ..#....J\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mB0:\u001b[33m AD 77 18 ED 0D 06 F5 4A\u001b[34m .w.....J\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36mB8:\u001b[33m 44 0C 1E 00 82 AB 14 01\u001b[34m D.......\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36mC0:\u001b[33m 56 0E 42 03 0A 05 42 07\u001b[34m V.B...B.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36mC8:\u001b[33m 99 0E 59 6F 75 20 65 6E\u001b[34m ..You en\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mD0:\u001b[33m 74 65 72 65 64 3A 20 30\u001b[34m tered: 0\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.2e-05,
+      "\u001b[36mD8:\u001b[33m 01 01 01               \u001b[34m ...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      5.3e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Got from server: SizedEnvelopedMessageRecord(Size=219, Payload=b'\\x00V\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01@\\nActivityId\\x04\\rCorrelationId\\x98$89b60209-2533-4bab-9194-5eb79c5695f6\\x08=http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\\xb1\\xe9\\xee\\xf0\\x86\\xc9\\xfa\\x99K\\x9d\\x86\\xad|\\x08\\xb5\\n\\x02D\\x12\\xad\\xb1\\x13#\\xc6\\xb1\\xad\\xd9J\\xadw\\x18\\xed\\r\\x06\\xf5JD\\x0c\\x1e\\x00\\x82\\xab\\x14\\x01V\\x0eB\\x03\\n\\x05B\\x07\\x99\\x0eYou entered: 0\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      1.1e-05,
+      "219\r\n"
+    ],
+    [
+      6.2e-05,
+      "Got Data from server:\r\n"
+    ],
+    [
+      5.6e-05,
+      "\u001b[36m00:\u001b[33m 06 DB 01 00 56 02 0B 01\u001b[34m ....V...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.2e-05,
+      "\u001b[36m08:\u001b[33m 73 04 0B 01 61 06 56 08\u001b[34m s...a.V.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6e-05,
+      "\u001b[36m10:\u001b[33m 44 0A 1E 00 82 AB 01 40\u001b[34m D......@\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.2e-05,
+      "\u001b[36m18:\u001b[33m 0A 41 63 74 69 76 69 74\u001b[34m .Activit\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.2e-05,
+      "\u001b[36m20:\u001b[33m 79 49 64 04 0D 43 6F 72\u001b[34m yId..Cor\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.3e-05,
+      "\u001b[36m28:\u001b[33m 72 65 6C 61 74 69 6F 6E\u001b[34m relation\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.3e-05,
+      "\u001b[36m30:\u001b[33m 49 64 98 24 38 39 62 36\u001b[34m Id.$89b6\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.3e-05,
+      "\u001b[36m38:\u001b[33m 30 32 30 39 2D 32 35 33\u001b[34m 0209-253\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6e-05,
+      "\u001b[36m40:\u001b[33m 33 2D 34 62 61 62 2D 39\u001b[34m 3-4bab-9\u001b(B\u001b[m\r\n"
+    ],
+    [
+      4.5e-05,
+      "\u001b[36m48:\u001b[33m 31 39 34 2D 35 65 62 37\u001b[34m 194-5eb7\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m50:\u001b[33m 39 63 35 36 39 35 66 36\u001b[34m 9c5695f6\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m58:\u001b[33m 08 3D 68 74 74 70 3A 2F\u001b[34m .=http:/\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36m60:\u001b[33m 2F 73 63 68 65 6D 61 73\u001b[34m /schemas\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[36m68:\u001b[33m 2E 6D 69 63 72 6F 73 6F\u001b[34m .microso\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m70:\u001b[33m 66 74 2E 63 6F 6D 2F 32\u001b[34m ft.com/2\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m78:\u001b[33m 30 30 34 2F 30 39 2F 53\u001b[34m 004/09/S\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m80:\u001b[33m 65 72 76 69 63 65 4D 6F\u001b[34m erviceMo\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m88:\u001b[33m 64 65 6C 2F 44 69 61 67\u001b[34m del/Diag\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m90:\u001b[33m 6E 6F 73 74 69 63 73 B1\u001b[34m nostics.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36m98:\u001b[33m E9 EE F0 86 C9 FA 99 4B\u001b[34m .......K\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA0:\u001b[33m 9D 86 AD 7C 08 B5 0A 02\u001b[34m ...|....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mA8:\u001b[33m 44 12 AD B1 13 23 C6 B1\u001b[34m D....#..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mB0:\u001b[33m AD D9 4A AD 77 18 ED 0D\u001b[34m ..J.w...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mB8:\u001b[33m 06 F5 4A 44 0C 1E 00 82\u001b[34m ..JD....\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mC0:\u001b[33m AB 14 01 56 0E 42 03 0A\u001b[34m ...V.B..\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mC8:\u001b[33m 05 42 07 99 0E 59 6F 75\u001b[34m .B...You\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.5e-05,
+      "\u001b[36mD0:\u001b[33m 20 65 6E 74 65 72 65 64\u001b[34m  entered\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[36mD8:\u001b[33m 3A 20 30 01 01 01      \u001b[34m : 0...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000514,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[36m0:\u001b[33m 07                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000117,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Client record: EndRecord()\r\n"
+    ],
+    [
+      4.9e-05,
+      "Got Data from client:\r\n"
+    ],
+    [
+      4e-05,
+      "\u001b[36m0:\u001b[33m 07                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      3.5e-05,
+      "DEBUG:nettcp.stream.socket.SocketStream:Sent Data:\r\n"
+    ],
+    [
+      3.4e-05,
+      "\u001b[36m0:\u001b[33m 07                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6.8e-05,
+      "INFO:nettcp.proxy.NETTCPProxy:Client requested end\r\n"
+    ],
+    [
+      0.000124,
+      "DEBUG:nettcp.stream.socket.SocketStream:Recved Data:\r\n"
+    ],
+    [
+      9.3e-05,
+      "\u001b[36m0:\u001b[33m 07                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      6e-05,
+      "DEBUG:nettcp.proxy.NETTCPProxy:Got from server: EndRecord()\r\n"
+    ],
+    [
+      3.7e-05,
+      "Got Data from server:\r\n"
+    ],
+    [
+      5.1e-05,
+      "\u001b[36m0:\u001b[33m 07                     \u001b[34m .\u001b(B\u001b[m\r\n"
+    ],
+    [
+      9.4e-05,
+      "INFO:nettcp.proxy.NETTCPProxy:Server confirmed end\r\n"
+    ],
+    [
+      3.178565,
+      "^C"
+    ],
+    [
+      0.000139,
+      "Traceback (most recent call last):\r\n  File \"/home/bluec0re/sources/python-nettcp/venv/bin/nettcp-proxy.py\", line 6, in <module>\r\n"
+    ],
+    [
+      0.000164,
+      "    exec(compile(open(__file__).read(), __file__, 'exec'))\r\n  File \"/home/bluec0re/sources/python-nettcp/scripts/nettcp-proxy.py\", line 5, in <module>\r\n"
+    ],
+    [
+      1.6e-05,
+      "    main()\r\n  File \"/home/bluec0re/sources/python-nettcp/nettcp/proxy.py\", line 178, in main\r\n"
+    ],
+    [
+      0.000102,
+      "    server.serve_forever()\r\n  File \"/usr/lib64/python3.5/socketserver.py\", line 232, in serve_forever\r\n"
+    ],
+    [
+      0.000146,
+      "    ready = selector.select(poll_interval)\r\n  File \"/usr/lib64/python3.5/selectors.py\", line 376, in select\r\n"
+    ],
+    [
+      0.000162,
+      "    fd_event_list = self._poll.poll(timeout)\r\n"
+    ],
+    [
+      1.8e-05,
+      "KeyboardInterrupt\r\n"
+    ],
+    [
+      0.011952,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r\u001b]2;bluec0re@hawk: ~/sources/python-nettcp\u0007\u001b]1;..python-nettcp\u0007"
+    ],
+    [
+      0.107303,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/python-nettcp\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K\u001b[82C\u001b[31m1 ↵\u001b[00m\u001b[85D\u001b[?1h\u001b="
+    ],
+    [
+      2.2e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.995131,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.069613,
+      "\b\u001b[4m\u001b[33md\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.146168,
+      "\b\b\u001b[24m\u001b[1m\u001b[31md\u001b[24m\u001b[1m\u001b[31me\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.094692,
+      "\b\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.166173,
+      "\b\u001b[1m\u001b[31mo\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.07668,
+      "\b\u001b[1m\u001b[31md\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.38647,
+      "\b\b\b\b\b\b\u001b[0m\u001b[32md\u001b[0m\u001b[32me\u001b[0m\u001b[32mc\u001b[0m\u001b[32mo\u001b[0m\u001b[32md\u001b[0m\u001b[32me\u001b[32m-nmf.py\u001b[39m \u001b[4mexample.trace\u001b[24m"
+    ],
+    [
+      1.005183,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001016,
+      "\u001b]2;decode-nmf.py example.trace\u0007\u001b]1;decode-nmf.py\u0007"
+    ],
+    [
+      0.100065,
+      "c>s VersionRecord(MajorVersion=1, MinorVersion=0)\r\nc>s ModeRecord(Mode=Mode.DUPLEX)\r\n"
+    ],
+    [
+      2.2e-05,
+      "c>s ViaRecord(ViaLength=36, Via='net.tcp://192.168.56.1:8523/Service1')\r\nc>s KnownEncodingRecord(Encoding=KnownEncoding.BINARY_DICT)\r\nc>s PreambleEndRecord()\r\n"
+    ],
+    [
+      2.9e-05,
+      "s>c PreambleAckRecord()\r\n"
+    ],
+    [
+      2.4e-05,
+      "c>s SizedEnvelopedMessageRecord(Size=176, Payload=b'l$http://tempuri.org/IService1/GetData$net.tcp://192.168.56.1:8523/Service1\\x07GetData\\x13http://tempuri.org/\\x05valueV\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01D\\x1a\\xadK\\xdf\\xb6^\\xfd\\xae\\x7fE\\xbb\\xfa&Dm\\xafB\\xe0D,D*\\xab\\x14\\x01D\\x0c\\x1e\\x00\\x82\\xab\\x03\\x01V\\x0eB\\x05\\n\\x07B\\t\\x8b9\\x05\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      4e-05,
+      "s>c SizedEnvelopedMessageRecord(Size=317, Payload=b'_,http://tempuri.org/IService1/GetDataResponse\\x0fGetDataResponse\\x13http://tempuri.org/\\rGetDataResultV\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01@\\nActivityId\\x04\\rCorrelationId\\x98$97469b4b-7b74-4d03-ae08-eae4a55d8f53\\x08=http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\\xb1,X\\xc1_\\xcd\\xfa\\xf4L\\xbb\\xac\\xc0\\xdd\\x8fVA\\xd5D\\x12\\xadK\\xdf\\xb6^\\xfd\\xae\\x7fE\\xbb\\xfa&Dm\\xafB\\xe0D\\x0c\\x1e\\x00\\x82\\xab\\x14\\x01V\\x0eB\\x03\\n\\x05B\\x07\\x99\\x11You entered: 1337\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      1.1e-05,
+      "c>s SizedEnvelopedMessageRecord(Size=66, Payload=b'\\x00V\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01D\\x1a\\xad\\xb1\\x13#\\xc6\\xb1\\xad\\xd9J\\xadw\\x18\\xed\\r\\x06\\xf5JD,D*\\xab\\x14\\x01D\\x0c\\x1e\\x00\\x82\\xab\\x03\\x01V\\x0eB\\x05\\n\\x07B\\t\\x81\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      3.6e-05,
+      "s>c SizedEnvelopedMessageRecord(Size=219, Payload=b'\\x00V\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01@\\nActivityId\\x04\\rCorrelationId\\x98$89b60209-2533-4bab-9194-5eb79c5695f6\\x08=http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\\xb1\\xe9\\xee\\xf0\\x86\\xc9\\xfa\\x99K\\x9d\\x86\\xad|\\x08\\xb5\\n\\x02D\\x12\\xad\\xb1\\x13#\\xc6\\xb1\\xad\\xd9J\\xadw\\x18\\xed\\r\\x06\\xf5JD\\x0c\\x1e\\x00\\x82\\xab\\x14\\x01V\\x0eB\\x03\\n\\x05B\\x07\\x99\\x0eYou entered: 0\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      2e-05,
+      "c>s EndRecord()\r\ns>c EndRecord()\r\n"
+    ],
+    [
+      0.010968,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      2.8e-05,
+      "\u001b]2;bluec0re@hawk: ~/sources/python-nettcp\u0007\u001b]1;..python-nettcp\u0007"
+    ],
+    [
+      0.115626,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/python-nettcp\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      3.1e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.79582,
+      "\u001b[32mdecode-nmf.py\u001b[39m \u001b[4mexample.trace\u001b[24m"
+    ],
+    [
+      0.934146,
+      "\b\b\b\b\b"
+    ],
+    [
+      0.157442,
+      "\u001b[8D"
+    ],
+    [
+      0.129989,
+      "\b\b\b"
+    ],
+    [
+      0.486804,
+      "\b"
+    ],
+    [
+      0.344305,
+      "\u001b[10D\u001b[1m\u001b[31md\u001b[1m\u001b[31me\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[1m\u001b[31md\u001b[1m\u001b[31me\u001b[1m\u001b[31m-\u001b[1m\u001b[31mn\u001b[1m\u001b[31mm\u001b[1m\u001b[31m.\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[0m\u001b[39m\u001b[P\u001b[14C \u001b[18D"
+    ],
+    [
+      0.12132,
+      "\b\u001b[P\u001b[17C \u001b[18D"
+    ],
+    [
+      0.121605,
+      "\b\u001b[P\u001b[17C \u001b[18D"
+    ],
+    [
+      1.900578,
+      "\u001b[1m\u001b[31mw\u001b[1m\u001b[31m.\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[0m\u001b[39m\u001b[24m \u001b[4me\u001b[4mx\u001b[4ma\u001b[4mm\u001b[4mp\u001b[4ml\u001b[4me\u001b[4m.\u001b[4mt\u001b[4mr\u001b[4ma\u001b[4mc\u001b[4me\u001b[24m\u001b[17D"
+    ],
+    [
+      0.220529,
+      "\u001b[1m\u001b[31mc\u001b[1m\u001b[31m.\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[0m\u001b[39m\u001b[24m \u001b[4me\u001b[4mx\u001b[4ma\u001b[4mm\u001b[4mp\u001b[4ml\u001b[4me\u001b[4m.\u001b[4mt\u001b[4mr\u001b[4ma\u001b[4mc\u001b[4me\u001b[24m\u001b[17D"
+    ],
+    [
+      0.229523,
+      "\u001b[1m\u001b[31mf\u001b[1m\u001b[31m.\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[0m\u001b[39m\u001b[24m \u001b[4me\u001b[4mx\u001b[4ma\u001b[4mm\u001b[4mp\u001b[4ml\u001b[4me\u001b[4m.\u001b[4mt\u001b[4mr\u001b[4ma\u001b[4mc\u001b[4me\u001b[24m\u001b[17D"
+    ],
+    [
+      0.542643,
+      "\u001b[1m\u001b[31mb\u001b[1m\u001b[31m.\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[0m\u001b[39m\u001b[24m \u001b[4me\u001b[4mx\u001b[4ma\u001b[4mm\u001b[4mp\u001b[4ml\u001b[4me\u001b[4m.\u001b[4mt\u001b[4mr\u001b[4ma\u001b[4mc\u001b[4me\u001b[24m\u001b[17D"
+    ],
+    [
+      0.149107,
+      "\u001b[1m\u001b[31mi\u001b[1m\u001b[31m.\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[0m\u001b[39m\u001b[24m \u001b[4me\u001b[4mx\u001b[4ma\u001b[4mm\u001b[4mp\u001b[4ml\u001b[4me\u001b[4m.\u001b[4mt\u001b[4mr\u001b[4ma\u001b[4mc\u001b[4me\u001b[24m\u001b[17D"
+    ],
+    [
+      0.122963,
+      "\u001b[12D\u001b[0m\u001b[32md\u001b[0m\u001b[32me\u001b[0m\u001b[32mc\u001b[0m\u001b[32mo\u001b[0m\u001b[32md\u001b[0m\u001b[32me\u001b[0m\u001b[32m-\u001b[0m\u001b[32mw\u001b[0m\u001b[32mc\u001b[0m\u001b[32mf\u001b[0m\u001b[32mb\u001b[0m\u001b[32mi\u001b[0m\u001b[32mn\u001b[0m\u001b[32m.\u001b[0m\u001b[32mp\u001b[32my\u001b[39m\u001b[24m \u001b[4me\u001b[4mx\u001b[4ma\u001b[4mm\u001b[4mp\u001b[4ml\u001b[4me\u001b[4m.\u001b[4mt\u001b[4mr\u001b[4ma\u001b[4mc\u001b[4me\u001b[24m\u001b[17D"
+    ],
+    [
+      0.469923,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000963,
+      "\u001b]2;decode-wcfbin.py example.trace\u0007\u001b]1;decode-wcfbin.py\u0007"
+    ],
+    [
+      0.119376,
+      "[2016-07-28 21:50:34.482315] {192.168.56.101:1089} c>s\r\n######################################################\r\nVersionRecord(MajorVersion=1, MinorVersion=0)\r\n\r\n"
+    ],
+    [
+      4.7e-05,
+      "[2016-07-28 21:50:34.482763] {192.168.56.101:1089} c>s\r\n######################################################\r\nModeRecord(Mode=Mode.DUPLEX)\r\n\r\n"
+    ],
+    [
+      2.2e-05,
+      "[2016-07-28 21:50:34.483313] {192.168.56.101:1089} c>s\r\n######################################################\r\n"
+    ],
+    [
+      2.7e-05,
+      "ViaRecord(ViaLength=36, Via='net.tcp://192.168.56.1:8523/Service1')\r\n\r\n"
+    ],
+    [
+      4.6e-05,
+      "[2016-07-28 21:50:34.483897] {192.168.56.101:1089} c>s\r\n######################################################\r\nKnownEncodingRecord(Encoding=KnownEncoding.BINARY_DICT)\r\n\r\n"
+    ],
+    [
+      3.9e-05,
+      "[2016-07-28 21:50:34.484383] {192.168.56.101:1089} c>s\r\n######################################################\r\nPreambleEndRecord()\r\n"
+    ],
+    [
+      2.5e-05,
+      "\r\n"
+    ],
+    [
+      1.1e-05,
+      "[2016-07-28 21:50:34.685406] {192.168.56.101:1089} s>c\r\n######################################################\r\n"
+    ],
+    [
+      1.2e-05,
+      "PreambleAckRecord()\r\n\r\n"
+    ],
+    [
+      8e-05,
+      "[2016-07-28 21:50:34.687129] {192.168.56.101:1089} c>s\r\n######################################################\r\nSizedEnvelopedMessageRecord(Size=176, Payload=b'l$http://tempuri.org/IService1/GetData$net.tcp://192.168.56.1:8523/Service1\\x07GetData\\x13http://tempuri.org/\\x05valueV\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01D\\x1a\\xadK\\xdf\\xb6^\\xfd\\xae\\x7fE\\xbb\\xfa&Dm\\xafB\\xe0D,D*\\xab\\x14\\x01D\\x0c\\x1e\\x00\\x82\\xab\\x03\\x01V\\x0eB\\x05\\n\\x07B\\t\\x8b9\\x05\\x01\\x01\\x01')\r\n\r\n"
+    ],
+    [
+      3.3e-05,
+      "Dictionary table: 108 bytes\r\n"
+    ],
+    [
+      5.3e-05,
+      "1: http://tempuri.org/IService1/GetData\r\n3: net.tcp://192.168.56.1:8523/Service1\r\n"
+    ],
+    [
+      1.4e-05,
+      "9: value\r\n5: GetData\r\n7: http://tempuri.org/\r\n"
+    ],
+    [
+      0.008229,
+      "\u001b[34;01m<s:Envelope\u001b[39;49;00m \u001b[36mxmlns:s=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2003/05/soap-envelope\"\u001b[39;49;00m \u001b[36mxmlns:a=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2005/08/addressing\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n \u001b[34;01m<s:Header\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n  \u001b[34;01m<a:Action\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://tempuri.org/IService1/GetData\u001b[34;01m</a:Action>\u001b[39;49;00m\r\n  \u001b[34;01m<a:MessageID\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00murn:uuid:5eb6df4b-aefd-457f-bbfa-26446daf42e0\u001b[34;01m</a:MessageID>\u001b[39;49;00m\r\n  \u001b[34;01m<a:ReplyTo\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n   \u001b[34;01m<a:Address\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://www.w3.org/2005/08/addressing/anonymous\u001b[34;01m</a:Address>\u001b[39;49;00m\r\n  \u001b[34;01m</a:ReplyTo>\u001b[39;49;00m\r\n  \u001b[34;01m<a:To\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mnet.tcp://192.168.56.1:8523/Service1\u001b[34;01m</a:To>\u001b[39;49;00m\r\n \u001b[34;01m</s:Header>\u001b[39;49;00m\r\n \u001b[34;01m<s:Body\u001b[39;49;00m\u001b[34;01m>\u001b[39;"
+    ],
+    [
+      2e-05,
+      "49;00m\r\n  \u001b[34;01m<GetData\u001b[39;49;00m \u001b[36mxmlns=\u001b[39;49;00m\u001b[33m\"http://tempuri.org/\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n   \u001b[34;01m<value\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m1337\u001b[34;01m</value>\u001b[39;49;00m\r\n  \u001b[34;01m</GetData>\u001b[39;49;00m\r\n \u001b[34;01m</s:Body>\u001b[39;49;00m\r\n\u001b[34;01m</s:Envelope>\u001b[39;49;00m\r\n\r\n\r\n"
+    ],
+    [
+      3.4e-05,
+      "[2016-07-28 21:50:34.690502] {192.168.56.101:1089} s>c\r\n######################################################\r\n"
+    ],
+    [
+      2.1e-05,
+      "SizedEnvelopedMessageRecord(Size=317, Payload=b'_,http://tempuri.org/IService1/GetDataResponse\\x0fGetDataResponse\\x13http://tempuri.org/\\rGetDataResultV\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01@\\nActivityId\\x04\\rCorrelationId\\x98$97469b4b-7b74-4d03-ae08-eae4a55d8f53\\x08=http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\\xb1,X\\xc1_\\xcd\\xfa\\xf4L\\xbb\\xac\\xc0\\xdd\\x8fVA\\xd5D\\x12\\xadK\\xdf\\xb6^\\xfd\\xae\\x7fE\\xbb\\xfa&Dm\\xafB\\xe0D\\x0c\\x1e\\x00\\x82\\xab\\x14\\x01V\\x0eB\\x03\\n\\x05B\\x07\\x99\\x11You entered: 1337\\x01\\x01\\x01')\r\n\r\n"
+    ],
+    [
+      2.3e-05,
+      "Dictionary table: 95 bytes\r\n"
+    ],
+    [
+      4.6e-05,
+      "1: http://tempuri.org/IService1/GetDataResponse\r\n3: GetDataResponse\r\n"
+    ],
+    [
+      1.4e-05,
+      "5: http://tempuri.org/\r\n7: GetDataResult\r\n"
+    ],
+    [
+      0.000778,
+      "\u001b[34;01m<s:Envelope\u001b[39;49;00m \u001b[36mxmlns:s=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2003/05/soap-envelope\"\u001b[39;49;00m \u001b[36mxmlns:a=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2005/08/addressing\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n \u001b[34;01m<s:Header\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n  \u001b[34;01m<a:Action\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://tempuri.org/IService1/GetDataResponse\u001b[34;01m</a:Action>\u001b[39;49;00m\r\n  \u001b[34;01m<ActivityId\u001b[39;49;00m \u001b[36mCorrelationId=\u001b[39;49;00m\u001b[33m\"97469b4b-7b74-4d03-ae08-eae4a55d8f53\"\u001b[39;49;00m \u001b[36mxmlns=\u001b[39;49;00m\u001b[33m\"http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m5fc1582c-facd-4cf4-bbac-c0dd8f5641d5\u001b[34;01m</ActivityId>\u001b[39;49;00m\r\n  \u001b[34;01m<a:RelatesTo\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00murn:uuid:5eb6df4b-aefd-457f-bbfa-26446daf42e0\u001b[34;01m</a:RelatesTo>\u001b[39;49;00m\r\n  \u001b[34;01m<a:To\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://www.w3.org/2005/08/addressing/ano"
+    ],
+    [
+      2.1e-05,
+      "nymous\u001b[34;01m</a:To>\u001b[39;49;00m\r\n \u001b[34;01m</s:Header>\u001b[39;49;00m\r\n \u001b[34;01m<s:Body\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n  \u001b[34;01m<GetDataResponse\u001b[39;49;00m \u001b[36mxmlns=\u001b[39;49;00m\u001b[33m\"http://tempuri.org/\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n   \u001b[34;01m<GetDataResult\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mYou entered: 1337\u001b[34;01m</GetDataResult>\u001b[39;49;00m\r\n  \u001b[34;01m</GetDataResponse>\u001b[39;49;00m\r\n \u001b[34;01m</s:Body>\u001b[39;49;00m\r\n\u001b[34;01m</s:Envelope>\u001b[39;49;00m\r\n\r\n\r\n"
+    ],
+    [
+      3.5e-05,
+      "[2016-07-28 21:50:35.354527] {192.168.56.101:1089} c>s\r\n######################################################\r\n"
+    ],
+    [
+      1.7e-05,
+      "SizedEnvelopedMessageRecord(Size=66, Payload=b'\\x00V\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01D\\x1a\\xad\\xb1\\x13#\\xc6\\xb1\\xad\\xd9J\\xadw\\x18\\xed\\r\\x06\\xf5JD,D*\\xab\\x14\\x01D\\x0c\\x1e\\x00\\x82\\xab\\x03\\x01V\\x0eB\\x05\\n\\x07B\\t\\x81\\x01\\x01\\x01')\r\n"
+    ],
+    [
+      1.4e-05,
+      "\r\n"
+    ],
+    [
+      1.2e-05,
+      "Dictionary table: 0 bytes\r\n"
+    ],
+    [
+      2.7e-05,
+      "1: http://tempuri.org/IService1/GetData\r\n3: net.tcp://192.168.56.1:8523/Service1\r\n"
+    ],
+    [
+      1.1e-05,
+      "9: value\r\n5: GetData\r\n"
+    ],
+    [
+      1.2e-05,
+      "7: http://tempuri.org/\r\n"
+    ],
+    [
+      0.000616,
+      "\u001b[34;01m<s:Envelope\u001b[39;49;00m \u001b[36mxmlns:s=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2003/05/soap-envelope\"\u001b[39;49;00m \u001b[36mxmlns:a=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2005/08/addressing\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n \u001b[34;01m<s:Header\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n  \u001b[34;01m<a:Action\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://tempuri.org/IService1/GetData\u001b[34;01m</a:Action>\u001b[39;49;00m\r\n  \u001b[34;01m<a:MessageID\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00murn:uuid:c62313b1-adb1-4ad9-ad77-18ed0d06f54a\u001b[34;01m</a:MessageID>\u001b[39;49;00m\r\n  \u001b[34;01m<a:ReplyTo\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n   \u001b[34;01m<a:Address\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://www.w3.org/2005/08/addressing/anonymous\u001b[34;01m</a:Address>\u001b[39;49;00m\r\n  \u001b[34;01m</a:ReplyTo>\u001b[39;49;00m\r\n  \u001b[34;01m<a:To\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mnet.tcp://192.168.56.1:8523/Service1\u001b[34;01m</a:To>\u001b[39;49;00m\r\n \u001b[34;01m</s:Header>\u001b[39;49;00m\r\n \u001b[34;01m<s:Body\u001b[39;49;00m\u001b[34;01m>\u001b[39;"
+    ],
+    [
+      2e-05,
+      "49;00m\r\n  \u001b[34;01m<GetData\u001b[39;49;00m \u001b[36mxmlns=\u001b[39;49;00m\u001b[33m\"http://tempuri.org/\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n   \u001b[34;01m<value\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m0\u001b[34;01m</value>\u001b[39;49;00m\r\n  \u001b[34;01m</GetData>\u001b[39;49;00m\r\n \u001b[34;01m</s:Body>\u001b[39;49;00m\r\n\u001b[34;01m</s:Envelope>\u001b[39;49;00m\r\n\r\n\r\n"
+    ],
+    [
+      3.8e-05,
+      "[2016-07-28 21:50:35.356926] {192.168.56.101:1089} s>c\r\n######################################################\r\n"
+    ],
+    [
+      1.9e-05,
+      "SizedEnvelopedMessageRecord(Size=219, Payload=b'\\x00V\\x02\\x0b\\x01s\\x04\\x0b\\x01a\\x06V\\x08D\\n\\x1e\\x00\\x82\\xab\\x01@\\nActivityId\\x04\\rCorrelationId\\x98$89b60209-2533-4bab-9194-5eb79c5695f6\\x08=http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\\xb1\\xe9\\xee\\xf0\\x86\\xc9\\xfa\\x99K\\x9d\\x86\\xad|\\x08\\xb5\\n\\x02D\\x12\\xad\\xb1\\x13#\\xc6\\xb1\\xad\\xd9J\\xadw\\x18\\xed\\r\\x06\\xf5JD\\x0c\\x1e\\x00\\x82\\xab\\x14\\x01V\\x0eB\\x03\\n\\x05B\\x07\\x99\\x0eYou entered: 0\\x01\\x01\\x01')\r\n\r\n"
+    ],
+    [
+      2.6e-05,
+      "Dictionary table: 0 bytes\r\n"
+    ],
+    [
+      3e-05,
+      "1: http://tempuri.org/IService1/GetDataResponse\r\n3: GetDataResponse\r\n"
+    ],
+    [
+      1.4e-05,
+      "5: http://tempuri.org/\r\n7: GetDataResult\r\n"
+    ],
+    [
+      0.00089,
+      "\u001b[34;01m<s:Envelope\u001b[39;49;00m \u001b[36mxmlns:s=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2003/05/soap-envelope\"\u001b[39;49;00m \u001b[36mxmlns:a=\u001b[39;49;00m\u001b[33m\"http://www.w3.org/2005/08/addressing\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n \u001b[34;01m<s:Header\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n  \u001b[34;01m<a:Action\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://tempuri.org/IService1/GetDataResponse\u001b[34;01m</a:Action>\u001b[39;49;00m\r\n  \u001b[34;01m<ActivityId\u001b[39;49;00m \u001b[36mCorrelationId=\u001b[39;49;00m\u001b[33m\"89b60209-2533-4bab-9194-5eb79c5695f6\"\u001b[39;49;00m \u001b[36mxmlns=\u001b[39;49;00m\u001b[33m\"http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m86f0eee9-fac9-4b99-9d86-ad7c08b50a02\u001b[34;01m</ActivityId>\u001b[39;49;00m\r\n  \u001b[34;01m<a:RelatesTo\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00murn:uuid:c62313b1-adb1-4ad9-ad77-18ed0d06f54a\u001b[34;01m</a:RelatesTo>\u001b[39;49;00m\r\n  \u001b[34;01m<a:To\u001b[39;49;00m \u001b[36ms:mustUnderstand=\u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mhttp://www.w3.org/2005/08/addressing/ano"
+    ],
+    [
+      2e-05,
+      "nymous\u001b[34;01m</a:To>\u001b[39;49;00m\r\n \u001b[34;01m</s:Header>\u001b[39;49;00m\r\n \u001b[34;01m<s:Body\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n  \u001b[34;01m<GetDataResponse\u001b[39;49;00m \u001b[36mxmlns=\u001b[39;49;00m\u001b[33m\"http://tempuri.org/\"\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00m\r\n   \u001b[34;01m<GetDataResult\u001b[39;49;00m\u001b[34;01m>\u001b[39;49;00mYou entered: 0\u001b[34;01m</GetDataResult>\u001b[39;49;00m\r\n  \u001b[34;01m</GetDataResponse>\u001b[39;49;00m\r\n \u001b[34;01m</s:Body>\u001b[39;49;00m\r\n\u001b[34;01m</s:Envelope>\u001b[39;49;00m\r\n\r\n"
+    ],
+    [
+      1.5e-05,
+      "\r\n"
+    ],
+    [
+      1.3e-05,
+      "[2016-07-28 21:50:35.358710] {192.168.56.101:1089} c>s\r\n######################################################\r\n"
+    ],
+    [
+      1.2e-05,
+      "EndRecord()\r\n"
+    ],
+    [
+      1.2e-05,
+      "\r\n"
+    ],
+    [
+      1.2e-05,
+      "[2016-07-28 21:50:35.359205] {192.168.56.101:1089} s>c\r\n"
+    ],
+    [
+      1.1e-05,
+      "######################################################\r\nEndRecord()\r\n"
+    ],
+    [
+      1.1e-05,
+      "\r\n"
+    ],
+    [
+      0.016278,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      3.1e-05,
+      "\u001b]2;bluec0re@hawk: ~/sources/python-nettcp\u0007\u001b]1;..python-nettcp\u0007"
+    ],
+    [
+      0.109208,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/python-nettcp\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      2.8e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.80287,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
