@@ -5,6 +5,9 @@ This library implements the MC-NMF, MC-NMFTB and MS-NNS protocols for net.tcp
 webservices. It is able to parse and encode the different protocols and interact
 as an Man-in-the-Middle proxy for the negotiate authentication.
 
+This library is meant to be run/installed with python3. It might also work with python2.7
+(with minor adjustements), but wasn't tested with it.
+
 <a href="https://asciinema.org/a/71sbvkyjpr0jpmznk36u3ec9q" target="_blank">
 <img src="https://asciinema.org/a/71sbvkyjpr0jpmznk36u3ec9q.png" />
 </a>
