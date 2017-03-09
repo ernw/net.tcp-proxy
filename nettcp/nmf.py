@@ -76,7 +76,6 @@ varint.stream = varint_stream
 
 
 def varint_encode(val):
-    print(repr(val))
     if not val:
         return b'\x00'
     elif val < 0x80:
@@ -127,6 +126,30 @@ def raw_bytes_stream(name, obj, stream):
 raw_bytes.stream = raw_bytes_stream
 
 
+def data_chunks(obj, data):
+    chunks = []
+    length = 0
+    while True:
+        skip, chunk = DataChunk.parse(data)
+        length += skip
+        data = data[skip:]
+        if len(chunk.data) == 0:
+            break
+        chunks.append(chunk)
+    return length, chunks
+data_chunks.encode = None
+
+def data_chunks_stream(obj, stream):
+    chunks = []
+    while True:
+        chunk = DataChunk.parse_stream(data)
+        if len(chunk.data) == 0:
+            break
+        chunks.append(chunk)
+    return chunks
+data_chunks.stream = data_chunks_stream
+
+
 def as_enum(fmt, enum):
     def internal(obj, data):
         s = struct.calcsize(fmt)
@@ -165,6 +188,34 @@ class Mode(Enum):
     DUPLEX = 2
     SIMPLEX = 3
     SINGLETON_SIZED = 4
+
+
+class DataChunk:
+    def __init__(self, data):
+        self.data = data
+
+    @classmethod
+    def parse(cls, data):
+        obj = cls(None)
+        skip, size = varint(obj, data)
+        if skip == 0:
+            # TODO: Bug in varint??
+            skip += 1
+        obj.data = data[skip:skip + size]
+        return skip + size, obj
+
+    @classmethod
+    def parse_stream(cls, stream):
+        obj = cls(None)
+        size = varint.stream(obj, stream)
+        obj.data = stream.read(size)
+        return obj
+
+    def to_bytes(self):
+        return varint.encode(len(self.data)) + self.data
+
+    def __repr__(self):
+        return 'DataChunk({!r})'.format(self.data)
 
 
 class Record(object):
@@ -318,6 +369,9 @@ class FaultRecord(Record):
 
 class UnsizedEnvelopedMessageRecord(Record):
     code = 0x05
+    fields = (
+        ('DataChunks', data_chunks),
+    )
 
 
 def register_types(module=None, baseclass=Record):
