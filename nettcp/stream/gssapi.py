@@ -42,8 +42,11 @@ class GSSAPIStream:
         if not self.client_ctx:
             self.negotiate()
 
-        data = self.client_ctx.encrypt(data)
-        self._inner.write(data)
+        while data:
+            data2 = data[:0xFC00]
+            e_data = self.client_ctx.encrypt(data2)
+            self._inner.write(e_data)
+            data = data[0xFC00:]
 
     def read(self, count=None):
         if not self.client_ctx:
