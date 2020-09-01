@@ -20,7 +20,7 @@ from .nmf import (Record, EndRecord, KnownEncodingRecord,
                   UpgradeRequestRecord, UpgradeResponseRecord, register_types)
 try:
     from .stream.gssapi import GSSAPIStream
-except ImportError:
+except (ImportError, OSError):
     warnings.warn('gssapi not installed, no negotiate protocol available')
     GSSAPIStream = None
 
